@@ -1,2 +1,2 @@
 # NLP-ASSIGNMENT
-Amazon review on product
+Data Analysis (Amazon product review)
